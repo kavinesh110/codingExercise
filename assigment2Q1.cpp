@@ -66,6 +66,7 @@ cout<<"\n\nThe average of ten number in array3 = "<<avg<<endl;
 cout<<"The range of values in array3 = "<<range<<endl;
 cout<<"The number of add numbers in array3 = "<<numOfOdd<<endl;
 
+return 0;
 }
 
 
